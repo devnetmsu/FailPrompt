@@ -17,12 +17,12 @@ commands = { "instructions": instructions,
              "matrix": matrix
              }
 
-responses = ("Eh, I don't feel like it.",
-             "I don't wanna",
+responses = ("Sure, I can do that...",
+             "I could, but so could you.",
              "Maybe later",
              "Why should I?",
-             "Get someone else to do it",
-             "No.")
+             "I'm sorry dave, I'm afraid I can't do that.",
+             "Done.")
 
 def main():    
     commandName = "instructions"
