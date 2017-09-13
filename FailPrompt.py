@@ -7,11 +7,16 @@ def instructions():
 def ping():
 	print("Pong!")
 
+def matrix():
+    for i in range(0, 1000000):
+        print(random.randrange(0, 9), end = '')
+
 def quit():
 	keepGoing = False
 
 commands = { "instructions": instructions, 
 			 "ping": ping,
+             "matrix": matrix,
 			 "quit": quit }
 
 # Variables
