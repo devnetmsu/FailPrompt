@@ -1,23 +1,24 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26730.12
+VisualStudioVersion = 15.0.26730.15
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "FailPrompt", "FailPrompt.pyproj", "{2CEE4873-C410-4508-9B8E-8198499FEBB9}"
 EndProject
 Global
-    GlobalSection(SolutionConfigurationPlatforms) = preSolution
-        Debug|Any CPU = Debug|Any CPU
-        Release|Any CPU = Release|Any CPU
-    EndGlobalSection
-    GlobalSection(ProjectConfigurationPlatforms) = postSolution
-        {2CEE4873-C410-4508-9B8E-8198499FEBB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-        {2CEE4873-C410-4508-9B8E-8198499FEBB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-    EndGlobalSection
-    GlobalSection(SolutionProperties) = preSolution
-        HideSolutionNode = FALSE
-    EndGlobalSection
-    GlobalSection(ExtensibilityGlobals) = postSolution
-        SolutionGuid = {7B265C88-A5F8-4E70-8FB6-92F0A825591A}
-    EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CEE4873-C410-4508-9B8E-8198499FEBB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CEE4873-C410-4508-9B8E-8198499FEBB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		        SolutionGuid = {7B265C88-A5F8-4E70-8FB6-92F0A825591A}
+		SolutionGuid = {E102A2CF-8CEB-43A6-990F-2B845403F3C7}
+	EndGlobalSection
 EndGlobal
