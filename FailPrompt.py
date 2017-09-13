@@ -21,7 +21,8 @@ responses = ("Eh, I don't feel like it.",
              "I don't wanna",
              "Maybe later",
              "Why should I?",
-             "Get someone else to do it")
+             "Get someone else to do it",
+             "No.")
 
 def main():    
     commandName = "instructions"
